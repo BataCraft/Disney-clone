@@ -1,0 +1,28 @@
+#warpper{
+    background-image: url('../../assets/images/login-background.jpg');
+    width: 100%;
+   
+    height: 88vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#brand{
+    background-image: url('../../assets/images/cta-logo-one.svg');
+    width: 100%;
+    height: 100px;
+    max-height: 100%;
+    background-position: center;
+    /* background-size: ; */
+    background-repeat: no-repeat;
+}
+
+#brand-second{
+    background-image: url('../../assets/images/cta-logo-two.png');
+    width: 100%;
+    height: 150px;
+    /* max-height: 100%; */
+    /* background-position: center; */
+    background-size: contain;
+    background-repeat: no-repeat;
+}
